@@ -20,7 +20,7 @@ assert_cmd = "2.0"
 clap = { version = "4.5", features = ["derive"] }
 
 # Deno crates that correspond to 1.44.4
-deno_core = "0.290.0"
+deno_core = "0.293.0"
 deno_emit = "0.42.0"
 deno_graph = "0.78.1"
 deno_runtime = "0.167.0"
