@@ -23,7 +23,7 @@ clap = { version = "4.5", features = ["derive"] }
 deno_core = "0.290.0"
 deno_emit = "0.42.0"
 deno_graph = "0.78.1"
-deno_runtime = "0.166.0"
+deno_runtime = "0.167.0"
 
 dircpy = "0.3"
 dssim = "3.2.4"
